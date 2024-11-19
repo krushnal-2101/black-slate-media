@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  'Nunito', sans-serif;
+   
+}
+header{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.flud{
+    color:#00376e;
+    max-width: 1320px;
+    height:80px ;
+    font-size: 23px;
+   width: 100%;
+  padding-top: 18px;
+   margin: auto;
+   padding-left: 80PX;
+ 
+}
+
+.container1{
+    max-width: 1320px;
+    margin: auto;
+}
+
+.home{
+ 
+  padding-top: 70px;
+  padding-left:80px;
+}
+
+.text2{
+
+    color: #4CB5AB;;
+}
+.text3{
+    text-align: center;
+    padding-right:80px;
+    padding-top: 70px;
+    color: black;
+}
+.text3 p{
+    display: inline;
+    border-bottom: 2px solid #4CB5AB;;
+ padding-bottom: 10px;
+}
+.shiping{
+    color: black;
+    padding-top: 70px;
+    font-size: 17px;
+}
+
+
+.fu{
+    color: red;
+}
+label{
+
+    color:rgba(0, 0, 0, 0.705);
+    font-size: 15px;
+}
+
+.in{
+
+   display: flex;
+    padding-top: 35px;
+    flex-wrap: wrap;
+    width: 70%;
+}
+.in2{
+    margin:0px 0px 30px 0px ;
+}
+.in3{
+    margin:0px 0px 30px 0px ;
+padding-left: 50px;
+}
+.in4{
+    margin:0px 0px 30px 0px ;
+   display: block;
+}
+.in7{
+    padding-left: 35px;
+    padding-top: 30px;
+}
+.in6{
+    padding-top: 30px;
+}

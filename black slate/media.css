@@ -1,0 +1,84 @@
+.menu{
+  display: none;
+  padding: 20px;
+}
+
+
+
+
+@media(max-width:991px){
+   
+      .flud2    {
+        display: none;
+      }
+      .menu{
+        display: block;
+      }
+      .sym1{
+        width: 50%;
+        margin: auto; 
+   
+    }
+    .features > div{
+      width: 50%;
+      padding: 20px;
+  }
+  .footlink{
+
+    width:33.33%;
+    padding: 10px;
+    text-decoration: none;
+    }
+    .part-1{
+      width: 100%;
+  
+    
+   }
+   .part-2{
+      width: 100%;
+     
+    
+   }
+}
+
+@media(max-width:767px){
+  .sym1{
+    width: 100%;
+    margin: auto;
+  
+}
+.features > div{
+  width: 100%;
+  padding: 20px;
+}
+.footlink{
+
+  width: 50%;
+  padding: 10px;
+  text-decoration: none;
+  }
+  
+}
+
+@media(max-width:575px){
+
+  .footlink{
+
+    width: 100%;
+    padding: 10px;
+    text-decoration: none;
+    }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+ 
